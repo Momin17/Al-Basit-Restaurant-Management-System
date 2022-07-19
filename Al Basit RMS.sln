@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDL", "GDL\GDL.csproj", "{AA043A4E-0017-487C-9910-1DD8EAB23F2B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Al Basit RMS", "Al Basit RMS\Al Basit RMS.vdproj", "{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{AA043A4E-0017-487C-9910-1DD8EAB23F2B}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.CD_ROM|Any CPU.ActiveCfg = Debug
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.Debug|Any CPU.ActiveCfg = Debug
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.DVD-5|Any CPU.ActiveCfg = Debug
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.Release|Any CPU.ActiveCfg = Release
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.Release|Any CPU.Build.0 = Release
+		{C1B2593A-8D04-4DC6-836A-B6839D2E4BB2}.SingleImage|Any CPU.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBC0DF6-C888-49F3-AFB3-BB9F3E862C20}
+	EndGlobalSection
+EndGlobal
